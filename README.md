@@ -112,7 +112,7 @@ To exit the environment when you have completed your work session, simply close 
 
 ### Architecture
 
-The architecture was chosen as described in the initial DCGAN research paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networksâ€.
+The architecture was chosen as described in the initial DCGAN research paper "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.
 
 <img src='/DCGAN.jpg'>
 
