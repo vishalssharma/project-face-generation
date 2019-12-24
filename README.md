@@ -1,12 +1,11 @@
 # Generating faces using GANs
 
-This project was done as part of Udacity's DLFND. In this project, it should be possible to generate faces using the CelebA dataset. The GAN was tested on the MNIST dataset.
+This project was done as part of Udacity's DLFND. In this project, it should be possible to generate faces using the CelebA dataset.
 
 
 ## Getting Started
 
 Just run the ipynb notebook. Tune the hyper parameters for better accuracy.
-<img src='/seinfeld.jpg' width=500 px>
 
 ### Prerequisites
 
